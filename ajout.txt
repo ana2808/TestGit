@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿là aussi j'aoute un truc différent
 ajouté depuis Git direct ! Yeah !
+=======
+﻿truc ajoute hahaha
+ ajouté depuis Git direct ! Yeah !
+>>>>>>> ecb5cc112a13800b12051d0504edd2afdd55ea76
 
 Et je rajoute une ligne
