@@ -1,1 +1,3 @@
-ajouté depuis Git direct ! Yeah !
+﻿ajouté depuis Git direct ! Yeah !
+
+Et je rajoute une ligne
